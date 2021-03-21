@@ -1,0 +1,4 @@
+
+
+class TestCarDetailsPage(BaseClass):
+    pass

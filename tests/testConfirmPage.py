@@ -1,0 +1,3 @@
+
+class TestConfirmPage(BaseClass):
+    pass

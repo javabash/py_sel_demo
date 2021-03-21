@@ -1,0 +1,3 @@
+
+class TestSearchPage(BaseClass):
+    pass
